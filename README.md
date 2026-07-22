@@ -6,6 +6,8 @@ Release / download channel.
 
 The loader is self-contained (everything it needs is embedded) and **auto-updates** from this repository's latest release — so future updates are picked up automatically on launch.
 
+https://discord.gg/WYnwBcMBp
+
 ---
 
 *This repository hosts published builds only. No source code is kept here.*
